@@ -1,7 +1,7 @@
 Docker MySQL master-slave replication 
 ========================
 
-MySQL 8.0 master-slave replication with using Docker. 
+MySQL 8.0 master-slave replication using Docker. 
 
 ## Run
 
